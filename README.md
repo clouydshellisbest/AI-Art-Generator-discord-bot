@@ -5,7 +5,7 @@ The discord bot uses craiyon to generate an art and u need some packages:
 pip install discord
 pip install logging
 pip install asyncio
-pip install aihttp
+pip install aiohttp
 pip install PIL
 pip install BytesIO
 pip install base64
